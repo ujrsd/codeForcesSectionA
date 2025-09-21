@@ -1,12 +1,14 @@
-# Solutions to differen CodeForces tasks
+# Solutions codeforces task of type A
+
+Link to codeforces:
+- [codeforce profile](https://codeforces.com/profile/LC-ujr)
+- [codeforce submissions](https://codeforces.com/submissions/LC-ujr)
 
 ## Programming Language
 
 To solve the different kind of tasks, `C++` is used.
 
-## Common problems
-
-When writing a solution, it leads to a runtime error, when the `main` function has a `return 1/0` statement. Therefore the basic file should always look like this:
+## Used template for every task
 
 ```C++
 #include <iostream>
@@ -15,6 +17,8 @@ int main() {
     // Insert Code here - without return statement
 }
 ```
+
+When writing a solution, using a return statment like it `return 1` or return `return 0` leads to a runtime error in the `main` function.
 
 The site works like the following:
 
