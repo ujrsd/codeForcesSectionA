@@ -23,6 +23,16 @@ void printMatrix(const std::vector<std::vector<T>>& matrix) {
     }
 }
 
+// Add up all values of a vector
+template <typename T>
+T sumUpVector(const std::vector<T>& values) {
+    T sum = 0;
+    for(const T& value : values) {
+        sum += value;
+    }
+    return sum;
+}
+
 // Bubble sort - Pass by reference to avoid copying the vector
 template <typename T>
 void sortVector(std::vector<T>& values) {
