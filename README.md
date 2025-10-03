@@ -11,10 +11,20 @@ To solve the different kind of tasks, `C++` is used.
 ## Used template for every task
 
 ```C++
+/*
+    Problem Name:
+    Difficulty  :
+    Link        :
+*/
 #include <iostream>
 
 int main() {
+    // Inputs
+
+    // Logic
     // Insert Code here - without return statement
+
+    // Outputs
 }
 ```
 
