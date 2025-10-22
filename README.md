@@ -6,9 +6,11 @@ Link to codeforces:
 
 ## Programming Language
 
-To solve the different kind of tasks, `C++` is used.
+To solve the different kind of tasks, `C++` and `Python` is used.
 
 ## Used template for every task
+
+The following template for `C++` is used:
 
 ```C++
 /*
@@ -26,6 +28,20 @@ int main() {
 
     // Outputs
 }
+```
+
+For `Python`, this one:
+
+```Python
+# Problem Name:
+# Difficulty  :
+# Link        :
+
+# Inputs
+
+# Logic
+
+# Outputs
 ```
 
 When writing a solution, using a return statment like it `return 1` or return `return 0` leads to a runtime error in the `main` function.
